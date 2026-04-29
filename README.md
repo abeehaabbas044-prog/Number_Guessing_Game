@@ -71,6 +71,6 @@ Higher performance = higher score 🎯
 ```bash
 javac number_guessing_game.java
 
-**##Author:**
+### Author:
 Abeeha Abbas
 Reg no:2025-CYS-8
