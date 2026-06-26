@@ -70,9 +70,11 @@ Higher performance = higher score 🎯
 ```bash
 javac number_guessing_game.java
 
-##About
+---
+
+### About
 Built as part of OOP coursework at UET Lahore.
 
-## Author:
+### Author:
 Abeeha Abbas BS Cyber Security — UET Lahore
 [LinkedIn](https://www.linkedin.com/in/abeeha-abbas/)
