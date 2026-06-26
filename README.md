@@ -1,13 +1,12 @@
-# 🎮 Number Guessing Game (Java)
+#  Number Guessing Game (Java)
 
-## 📌 Overview
+## Overview
 A console-based Number Guessing Game built in Java with multiple difficulty levels, score system, input validation, and a colorful hint system (lights).
-
 The player has to guess a randomly generated number between **0–1000** within limited attempts.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🎯 3 Difficulty Levels (Easy, Medium, Hard)
 - 🧠 Smart hint system (Too high / Too low)
@@ -19,7 +18,7 @@ The player has to guess a randomly generated number between **0–1000** within 
 
 ---
 
-## 🎮 Game Rules
+##  Game Rules
 
 1. Computer selects a random number (0–1000)
 2. Player selects difficulty:
@@ -35,7 +34,7 @@ The player has to guess a randomly generated number between **0–1000** within 
 
 ---
 
-## 💡 Light System (Hint Feature)
+##  Light System (Hint Feature)
 
 - 🟢 Very Close (small difference)
 - 🟡 Getting closer (medium difference)
@@ -45,7 +44,7 @@ This helps the player understand how close their guess is.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java
 - Scanner Class (Input handling)
@@ -55,7 +54,7 @@ This helps the player understand how close their guess is.
 
 ---
 
-## 📊 Score System
+##  Score System
 
 Score is calculated based on:
 - Number of attempts used
@@ -65,12 +64,15 @@ Higher performance = higher score 🎯
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Compile:
 ```bash
 javac number_guessing_game.java
 
-### Author:
-Abeeha Abbas
-Reg no:2025-CYS-8
+##About
+Built as part of OOP coursework at UET Lahore.
+
+## Author:
+Abeeha Abbas BS Cyber Security — UET Lahore
+[LinkedIn](https://www.linkedin.com/in/abeeha-abbas/)
