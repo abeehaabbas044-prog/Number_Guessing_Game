@@ -66,15 +66,14 @@ Higher performance = higher score 🎯
 
 ##  How to Run
 
-### Compile:
-```bash
-javac number_guessing_game.java
-
+1) Clone the repository
+2) Open in IntelliJ IDEA
+3) Run NumberGuessingGame.java
 ---
 
-### About
+## About
 Built as part of OOP coursework at UET Lahore.
 
-### Author:
+## Author:
 Abeeha Abbas BS Cyber Security — UET Lahore
 [LinkedIn](https://www.linkedin.com/in/abeeha-abbas/)
